@@ -1,1 +1,3 @@
 My name is Michael Kearse
+
+This is my first test at Git and GitHub!
